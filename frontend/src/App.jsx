@@ -15,7 +15,7 @@ import About from './pages/About';
 import Leaderboard from './pages/Leaderboard';
 import Auctions from './pages/Auctions';
 import AuctionItem from './pages/AuctionItem';
-import CreateAuction from './pages/createAuction';
+import CreateAuction from './pages/CreateAuction';
 import ViewMyAuctions from './pages/ViewMyAuctions';
 import ViewAuctionDetails from './pages/ViewAuctionDetails';
 import Dashboard from './pages/Dashboard/Dashboard';
