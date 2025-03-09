@@ -7,7 +7,7 @@ import "react-toastify/dist/ReactToastify.css";
 import { getAllAuctionItems } from "./store/slices/auctionSlice.js";
 import SignUp from './pages/SignUp';
 import Login from './pages/Login';
-import SubmitCommission from './pages/submitCommission';
+import SubmitCommission from './pages/SubmitCommission';
 import { useDispatch } from 'react-redux';
 import { fetchLeaderboard , fetchUser } from './store/slices/userSlice.js';
 import HowItWorks from './pages/HowItWorks';
