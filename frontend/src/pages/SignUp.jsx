@@ -203,7 +203,7 @@ const SignUp = () => {
                 </label>
                 <div className="flex flex-col gap-1 sm:flex-row sm:gap-4">
                   <input
-                    type="number"
+                    type="String"
                     value={upiId}
                     placeholder="UPI ID"
                     onChange={(e) => setUpiId(e.target.value)}
